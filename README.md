@@ -2,6 +2,13 @@
 
 I am Kushal Dhakal from Nepal. I am just learning stuff, working things out, and seeing how they turn out (NOTHING MUCH FANCY)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dklkushal07&show_icons=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <a href="https://twitter.com/dklkushal07" target="blank"><img src="https://img.shields.io/twitter/follow/dklkushal07?logo=twitter&style=for-the-badge" alt="dklkushal07" /></a> </p>
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40"  height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+</div>
